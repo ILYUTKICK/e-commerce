@@ -55,4 +55,7 @@
 e_commerce_project/
 ├── e_commerce.ipynb   # основной ноутбук с решением
 └── README.md
+└── olist_customers_dataset.csv
+└── olist_order_items_dataset.csv
+└── olist_orders_dataset.csv
 ```
